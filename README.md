@@ -20,6 +20,12 @@ Plain biotech video included as intro or mixed up in the plot of the game.
 
 Write a script. Research 3D photography layering on moving film. Shoot urban and natural landscapes. Setup crowdsourcing. Think what could be done to Dreemrelm to make it better     
 
+# DREEMRELM2.0 /// 
+
+- write down the poem
+- restructure the poem
+- for each word said in the beginning phase make a microworld/scene
+
 Artenalia 2012
 
 DREEMRELM
