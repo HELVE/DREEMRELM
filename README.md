@@ -24,7 +24,9 @@ Write a script. Research 3D photography layering on moving film. Shoot urban and
 
 - write down the poem
 - restructure the poem
-- for each word said in the beginning phase make a microworld/scene
+- for each word said in the beginning phase make a microworld/scene that relates to that specific state or emotion (aspirations)
+
+---
 
 Artenalia 2012
 
