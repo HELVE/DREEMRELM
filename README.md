@@ -33,7 +33,7 @@ Write a script. Research 3D photography layering on moving film. Shoot urban and
 
 - not very confident in self, be positive in what you do (II)
 - don't talk about flaws in your work (I)
--
+- be more straight-forward in describing your work (III)
 -
 -
 
