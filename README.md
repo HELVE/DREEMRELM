@@ -16,8 +16,6 @@ https://vimeo.com/25284350
 Bio-interactive.
 
 
-[VER 2.0 INCOMING] Perpetual Trance Environment
-
 Dreemrelm - biotech video installation
 
 Dreemrelm IF - interactive fiction (game) expanding upon the storyline of Dreemrelm.
@@ -27,6 +25,8 @@ Plain biotech video included as intro or mixed up in the plot of the game.
 Write a script. Research 3D photography layering on moving film. Shoot urban and natural landscapes. Setup crowdsourcing. Think what could be done to Dreemrelm to make it better     
 
 # DREEMRELM2.0 /// 
+
+[VER 2.0 INCOMING] Perpetual Trance Environment
 
 - write down the poem
 - restructure the poem
