@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/HELVE/DREEMRELM/master/27984901-73646dc8-63e1-11e7-84d8-0286d5448cfb.jpg" width="800")
+<img src="https://raw.githubusercontent.com/HELVE/DREEMRELM/master/27984901-73646dc8-63e1-11e7-84d8-0286d5448cfb.jpg" width="880">
 
 ![](helve-banner.png)
 
