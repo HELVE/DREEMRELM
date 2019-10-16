@@ -21,6 +21,7 @@ Write a script. Research 3D photography layering on moving film. Shoot urban and
 
 [VER 2.0 INCOMING] Perpetual Trance Environment
 
+- new base set up environment (i remember thinking of a circular experience surround the audience and perhaps even slowly rotating around?)
 - write down the poem
 - restructure the poem
 - for each word said in the beginning phase make a microworld/scene that relates to that specific state or emotion (aspirations)
