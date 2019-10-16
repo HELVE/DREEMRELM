@@ -15,12 +15,13 @@ https://vimeo.com/25284350
 
 Bio-interactive.
 
+**Side-projects (part of the project's storyworld)**:
 
-Dreemrelm - biotech video installation
+- Dreemrelm - biotech video installation
 
-Dreemrelm IF - interactive fiction (game) expanding upon the storyline of Dreemrelm.
+- Dreemrelm IF - interactive fiction (game) expanding upon the storyline of Dreemrelm.
 
-Plain biotech video included as intro or mixed up in the plot of the game.
+- Plain biotech video included as intro or mixed up in the plot of the game.
 
 Write a script. Research 3D photography layering on moving film. Shoot urban and natural landscapes. Setup crowdsourcing. Think what could be done to Dreemrelm to make it better     
 
