@@ -29,7 +29,12 @@ https://vimeo.com/25284350
 - Write a script. 
 - Research 3D photography layering on moving film. 
 - Shoot urban and natural landscapes. 
-- Setup crowdsourcing. Think what could be done to Dreemrelm to make it better     
+- Setup crowdsourcing. Think what could be done to Dreemrelm to make it better
+- write down the elements.
+- audio interviews from people about aspiration.
+- repurpose 'I'm a flickering moth' video.
+- write down the purpose of the film.
+- research the possibility of neural effects (audience emotionally repurposing the video).
 
 ## Poem Transcript
 
@@ -67,14 +72,9 @@ Alpha Version Description Sensory and auditory manifestation laced with a freefl
 
 Beta Version Description Sensory and auditory manifestation laced with a freeflow narrative surrounding the concept of human aspirations.
 
-To Do
+###  To Do
 
-write down the elements.
-audio interviews from people about aspiration.
-repurpose 'I'm a flickering moth' video.
-write down the purpose of the film.
-research the possibility of neural effects (audience emotionally repurposing the video).
-Notes
+### Notes
 
 The purpose of the film: mesmerize, analyze the notion of aspirations and show various implications of thinking about it in different ways, show life as it is in my mind.
 
