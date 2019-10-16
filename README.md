@@ -37,7 +37,8 @@ I-IIIIII < classmate votes
 - be more straight-forward in describing your work (III)
 - DIY approach and presentation is interesting to audience
 - show actual footage from the project (IIIII)
-
+- explain how rhizome philosophy (external and internal) links with the ambience within your films (III)
+- 
 
 Artenalia 2012
 
