@@ -1,4 +1,4 @@
-<img width=800>![](27984901-73646dc8-63e1-11e7-84d8-0286d5448cfb.jpg)</img>
+<img src="27984901-73646dc8-63e1-11e7-84d8-0286d5448cfb.jpg" width="800")
 
 ![](helve-banner.png)
 
