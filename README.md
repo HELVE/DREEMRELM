@@ -15,14 +15,6 @@ https://vimeo.com/25284350
 
 *Bio-interactive.*
 
-**Side-projects (part of the project's storyworld)**:
-
-- Dreemrelm - biotech video installation
-
-- Dreemrelm IF - interactive fiction (game) expanding upon the storyline of Dreemrelm.
-
-- Plain biotech video included as intro or mixed up in the plot of the game.
-
 Write a script. Research 3D photography layering on moving film. Shoot urban and natural landscapes. Setup crowdsourcing. Think what could be done to Dreemrelm to make it better     
 
 # DREEMRELM2.0 /// 
@@ -33,7 +25,17 @@ Write a script. Research 3D photography layering on moving film. Shoot urban and
 - restructure the poem
 - for each word said in the beginning phase make a microworld/scene that relates to that specific state or emotion (aspirations)
 
+**Side-projects (part of the project's storyworld)**:
+
+- Dreemrelm - biotech video installation
+
+- Dreemrelm IF - interactive fiction (game) expanding upon the storyline of Dreemrelm.
+
+- Plain biotech video included as intro or mixed up in the plot of the game.
+
 ---
+
+Audience Notes:
 
 I-IIIIII < classmate votes
 - not very confident in self, be positive in what you do (II)
