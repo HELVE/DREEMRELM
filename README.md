@@ -40,6 +40,7 @@ I-IIIIII < classmate votes
 - explain how rhizome philosophy (external and internal) links with the ambience within your films (III)
 - present good quality footage (I)
 - is there a connection or division between an artist and a filmmmaker (I)
+- convey the feeling (periods of ambience) (III)
 
 Artenalia 2012
 
