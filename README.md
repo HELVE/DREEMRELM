@@ -38,7 +38,7 @@ I-IIIIII < classmate votes
 - DIY approach and presentation is interesting to audience
 - show actual footage from the project (IIIII)
 - explain how rhizome philosophy (external and internal) links with the ambience within your films (III)
-- 
+- present good quality footage (I)
 
 Artenalia 2012
 
