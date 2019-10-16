@@ -6,7 +6,7 @@
 # DREEMRELM - BIOTECH VIDEO ART INSTALLATION 
 
 Original Description:
-
+```
 *Note: please use your headphones for best effect. Trance-inducing sensory and auditory manifestation laced with a freeflow narrative surrounding the concept of human aspirations. Biotech video art installation by Tymoteusz Masiakowski presented at Gray's School of Art Degree Show 2011. Music by Pietro Bonanno.*
 
 *Music: Ambient Drone - Awakening by Pietro Bonanno*
@@ -14,17 +14,21 @@ Original Description:
 https://vimeo.com/25284350
 
 *Bio-interactive.*
-
-Write a script. Research 3D photography layering on moving film. Shoot urban and natural landscapes. Setup crowdsourcing. Think what could be done to Dreemrelm to make it better     
+```
 
 # DREEMRELM2.0 /// 
 
+## Introduction to the new version
 [VER 2.0 INCOMING] Perpetual Trance Environment
 
 - new base set up environment (i remember thinking of a circular experience surround the audience and perhaps even slowly rotating around?)
 - write down the poem
 - restructure the poem
 - for each word said in the beginning phase make a microworld/scene that relates to that specific state or emotion (aspirations)
+- Write a script. 
+- Research 3D photography layering on moving film. 
+- Shoot urban and natural landscapes. 
+- Setup crowdsourcing. Think what could be done to Dreemrelm to make it better     
 
 **Side-projects (part of the project's storyworld)**:
 
