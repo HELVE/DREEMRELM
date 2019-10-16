@@ -5,7 +5,7 @@
 <a name="intro"></a>
 # DREEMRELM - BIOTECH VIDEO ART INSTALLATION 
 
-[VER 2.0 INCOMING] Perpetual Trance Environment
+Original Description:
 
 Note: please use your headphones for best effect. Trance-inducing sensory and auditory manifestation laced with a freeflow narrative surrounding the concept of human aspirations. Biotech video art installation by Tymoteusz Masiakowski presented at Gray's School of Art Degree Show 2011. Music by Pietro Bonanno.
 
@@ -14,6 +14,9 @@ Ambient Drone - Awakening by Pietro Bonanno
 https://vimeo.com/25284350
 
 Bio-interactive.
+
+
+[VER 2.0 INCOMING] Perpetual Trance Environment
 
 Dreemrelm - biotech video installation
 
