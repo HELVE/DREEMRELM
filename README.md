@@ -22,7 +22,7 @@ https://vimeo.com/25284350
 [VER 2.0 INCOMING] Perpetual Trance Environment
 
 ## Ideas
-- make a recognizable visual communication for the project
+- make a recognizable visual communication for the project - imagine a near future where people go to the Dreemrelm to sooth their pain of existence and figure out internally their direction in life. Productivity and self-discovery hypnosis.
 - new base set up environment (i remember thinking of a circular experience surround the audience and perhaps even slowly rotating around?)
 - write down the poem
 - restructure the poem
