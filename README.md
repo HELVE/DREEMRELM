@@ -21,6 +21,7 @@ https://vimeo.com/25284350
 ## Introduction to the new version
 [VER 2.0 INCOMING] Perpetual Trance Environment
 
+## Ideas
 - new base set up environment (i remember thinking of a circular experience surround the audience and perhaps even slowly rotating around?)
 - write down the poem
 - restructure the poem
@@ -29,6 +30,10 @@ https://vimeo.com/25284350
 - Research 3D photography layering on moving film. 
 - Shoot urban and natural landscapes. 
 - Setup crowdsourcing. Think what could be done to Dreemrelm to make it better     
+
+## Poem Transcript
+
+x x x
 
 **Side-projects (part of the project's storyworld)**:
 
