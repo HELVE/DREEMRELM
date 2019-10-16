@@ -39,6 +39,7 @@ I-IIIIII < classmate votes
 - show actual footage from the project (IIIII)
 - explain how rhizome philosophy (external and internal) links with the ambience within your films (III)
 - present good quality footage (I)
+- is there a connection or division between an artist and a filmmmaker (I)
 
 Artenalia 2012
 
