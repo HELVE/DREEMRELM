@@ -43,10 +43,22 @@ https://vimeo.com/25284350
 x x x (initial solo words)
 
 i am the flickering moth
-my dusty wings a construct of shopping bags 
-and couples holding hands and everything will be okay tomorrow.
-i am hollow, soul scooped  out and stained. 
-i am an eye. horus the destroyer. i'll restore  your fading cities to dust. i am the  apocalypse, memories of seagulls frightened by the  wind. i am alone and forever will be. an eye is an eye  is an eye. i cannot enter the  fortess walls. i cannot share a single kiss. i am the new beginning, a silent presence, the reckless whirlwind.
+my dusty wings a construct
+of shopping bags and couples 
+holding hands and everything 
+will be okay tomorrow.
+
+i am hollow, soul scooped out 
+and stained. i am an eye. 
+horus the destroyer. i'll restore 
+your fading cities to dust. 
+i am the apocalypse, memories of seagulls 
+frightened by the  wind. i am alone 
+and forever will be. an eye is an eye is an eye. 
+i cannot enter the  fortess walls. 
+i cannot share a single kiss. 
+i am the new beginning, a silent presence, 
+the reckless whirlwind.
 
 **Side-projects (part of the project's storyworld)**:
 
