@@ -44,7 +44,7 @@ x x x
 
 i am alone and forever will be
 
-
+i am the flickering moth, my dusty wings a  construct of shopping bags and couples holding  hands and everything will be okay tomorrow. i  am hollow. soul scooped  out and stained. i am an eye.  
 
 **Side-projects (part of the project's storyworld)**:
 
