@@ -3,7 +3,7 @@
 ![](helve-banner.png)
 
 <a name="intro"></a>
-# DREEMRELM - BIOTECH VIDEO ART INSTALLATION 
+# /// DREEMRELM - BIOTECH VIDEO ART INSTALLATION 
 
 Original Description:
 
@@ -17,7 +17,7 @@ https://vimeo.com/25284350
 *Bio-interactive.*
 ```
 
-# DREEMRELM2.0 /// 
+# /// DREEMRELM2.0  
 
 ## Introduction to the new version
 [VER 2.0 INCOMING] Perpetual Trance Environment
@@ -38,7 +38,7 @@ https://vimeo.com/25284350
 - write down the purpose of the film.
 - research the possibility of neural effects (audience emotionally repurposing the video).
 
-## Poem Transcript
+## /// Poem Transcript
 
 x x x
 
