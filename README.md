@@ -37,6 +37,16 @@ https://vimeo.com/25284350
 - write down the purpose of the film.
 - research the possibility of neural effects (audience emotionally repurposing the video).
 
+"Drimralm - as pronounciated.
+Enter your dream. Interactive film experience.
+I want to become. I need someone to. I dream of.
+
+State 01. Initial live video projection. Two screens. Skies and eyes.
+
+State 02.
+
+State 03. Online interactive film."
+
 ## /// Poem Transcript
 
 x x x (initial solo words)
